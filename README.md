@@ -9,9 +9,9 @@
   - Testes automatizados APIs (Postman e scripts Java)
   - Testes automatizados Mobile (Appium)
 
-#### Período: Fev/20 - Jun/20
+#### Período: Mar/20 - Jun/20
 
-#### Dia 1 - 17/02
+
 
 
 </br>
